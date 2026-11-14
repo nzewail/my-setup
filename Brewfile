@@ -1,7 +1,7 @@
 tap "adoptopenjdk/openjdk"
 tap "coursier/formulas"
+tap "grafana/pyroscope", "https://github.com/grafana/homebrew-pyroscope.git"
 tap "peak/tap"
-tap "pyroscope-io/brew"
 # Load/unload environment variables based on $PWD
 brew "direnv"
 # Modern, maintained replacement for ls
