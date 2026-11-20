@@ -16,6 +16,8 @@ brew "neovim"
 brew "railway"
 # Search tool like grep and The Silver Searcher
 brew "ripgrep"
+# Utility for customizing which browser to start
+cask "finicky"
 # Terminal emulator that uses platform-native UI and GPU acceleration
 cask "ghostty"
 # Web browser
