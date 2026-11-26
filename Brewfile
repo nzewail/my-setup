@@ -8,6 +8,8 @@ brew "direnv"
 brew "eza"
 # Command-line fuzzy finder written in Go
 brew "fzf"
+# GitHub command-line tool
+brew "gh"
 # Deep clean and optimize your Mac
 brew "mole"
 # Ambitious Vim-fork focused on extensibility and agility
